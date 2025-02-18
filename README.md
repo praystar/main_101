@@ -1,10 +1,6 @@
 <h1 align="center">Hi (^_^), I'm Prayash Baruah</h1>
 <h3 align="center">A passionate developer interested in Game UI | Computer Architecture | GPU programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praystar&label=Profile%20views&color=0e75b6&style=flat" alt="praystar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praystar" alt="praystar" /></a> </p>
-
 - 🔭 I’m currently working on **Gamified Stock Market Simulator**
 
 <h3 align="left">Connect with me:</h3>
