@@ -1,9 +1,10 @@
 <h1 align="center">Hi (^_^), I'm Prayash Baruah</h1>
 <h3 align="center">A passionate developer interested in Game UI | Computer Architecture | GPU programming</h3>
 
-- 🔭 I’m currently working on **Gamified Stock Market Simulator**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="center">Currently working on a Gamified Stock Market Simulator </h4>
+
+
 <p align="left">
 </p>
 
